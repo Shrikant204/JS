@@ -21,3 +21,4 @@ console.log("2" == 2);
 console.log("2" === 2);
 
 
+//avoid these conversions because they create confusion
